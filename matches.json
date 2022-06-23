@@ -7,14 +7,14 @@
       "imagem": "TODO"
     },
     "mandante": {
-      "nome": "Brasil",
+      "nome": "Grêmio",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+      "imagem": "https://i.pinimg.com/564x/25/f3/24/25f324ad607bbfda01b943f89f683793.jpg"
     },
      "visitante": {
-      "nome": "Argentina",
+      "nome": "Internacional",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+      "imagem": "https://i.pinimg.com/564x/0d/f3/aa/0df3aaf85e219a0f6113d385d2cbd021.jpg"
     }
   }  
 ]
