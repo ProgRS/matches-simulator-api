@@ -26,7 +26,7 @@
     "mandante": {
       "nome": "Brasil",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     },
     "visitante": {
       "nome": "Suíça",
@@ -48,7 +48,7 @@
     "visitante": {
       "nome": "Brasil",
       "forca": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/bo.png"
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
     }
   }
 ]
