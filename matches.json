@@ -4,7 +4,7 @@
     "descricao": "Copa do Mundo 2022",
     "local": {
     "nome":"Estádio Nacional de Lusail",
-      "imagem": "TODO"
+      "imagem": "http://arquivos.tribunadonorte.com.br/fotos/263707.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -21,7 +21,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome":"Estádio 974",
-      "imagem": "TODO"
+      "imagem": "https://static.gazetaesportiva.com/uploads/imagem/2021/11/20/DJI_0026-Edit-1024x682.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -38,7 +38,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome":"Estádio Nacional de Lusail",
-      "imagem": "TODO"
+      "imagem": "http://arquivos.tribunadonorte.com.br/fotos/263707.jpg"
     },
     "mandante": {
       "nome": "Brasil",
